@@ -14,4 +14,4 @@ Here is a sample of the reboot prompt:
 
 ![image](https://github.com/user-attachments/assets/e08f6572-9f5e-4b2d-b1e1-472ed0d3fa32)
 
-Check my website for more information and instructions on how to use this package.![image](https://github.com/user-attachments/assets/b19a0067-0ee5-4e36-ad50-1fc5b9e3c2cf)
+Check my website for more information and instructions on how to use this package. 
