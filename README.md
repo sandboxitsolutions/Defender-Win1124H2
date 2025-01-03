@@ -1,5 +1,5 @@
 # Defender-Win1124H2
-![image](https://github.com/user-attachments/assets/0d364c2c-4b8d-443b-91b9-986c27db3bb5)
+ ![InstallSense_Main_250px](https://github.com/user-attachments/assets/9dfcda03-945e-447f-bb76-827dace1d869)
 
 **Windows 11 24H2 Solution for Defender Enrollment Failures**
 
